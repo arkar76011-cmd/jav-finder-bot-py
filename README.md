@@ -27,8 +27,8 @@ API_URL=https://your-api-domain.com/search?q=
 
 ## 🚀 Quick Start Guide
 1. Clone the Repository:
-   git clone https://github.com/arkar76011-cmd/jav-finder-bot.git
-   cd jav-finder-bot
+   git clone https://github.com/arkar76011-cmd/jav-finder-bot-py.git
+   cd jav-finder-bot-py
 
 2. Install Dependencies:
    pip install python-telegram-bot httpx python-dotenv
